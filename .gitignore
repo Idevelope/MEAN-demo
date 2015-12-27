@@ -1,0 +1,9 @@
+*~
+/node_modules
+/bower_components
+/Resources
+/TutorialMaterial
+/tutorialtext
+*.pyc
+*.project
+/db
